@@ -1,7 +1,7 @@
 [91mFAIL[0m Home               mobile320    status=200 overflow=NO brokenImg=3 consoleErr=0
          broken: https://images.unsplash.com/photo-1517836357463-d25dfeac3438?w=900&q=70&auto=format&fit=crop
          broken: https://images.unsplash.com/photo-1540497077202-7c8a3999166f?w=900&q=70&auto=format&fit=crop
-         broken: https://cuts-curves-ten.vercel.app/assets/owner-1.jpg
+         broken: https://cutsandcurvesgym.com/assets/owner-1.jpg
 [91mFAIL[0m Home               mobile390    status=200 overflow=NO brokenImg=2 consoleErr=0
          broken: https://images.unsplash.com/photo-1517836357463-d25dfeac3438?w=900&q=70&auto=format&fit=crop
          broken: https://images.unsplash.com/photo-1540497077202-7c8a3999166f?w=900&q=70&auto=format&fit=crop
