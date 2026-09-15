@@ -1,0 +1,56 @@
+[91mFAIL[0m Home               mobile320    status=200 overflow=NO brokenImg=3 consoleErr=0
+         broken: https://images.unsplash.com/photo-1517836357463-d25dfeac3438?w=900&q=70&auto=format&fit=crop
+         broken: https://images.unsplash.com/photo-1540497077202-7c8a3999166f?w=900&q=70&auto=format&fit=crop
+         broken: https://cuts-curves-ten.vercel.app/assets/owner-1.jpg
+[91mFAIL[0m Home               mobile390    status=200 overflow=NO brokenImg=2 consoleErr=0
+         broken: https://images.unsplash.com/photo-1517836357463-d25dfeac3438?w=900&q=70&auto=format&fit=crop
+         broken: https://images.unsplash.com/photo-1540497077202-7c8a3999166f?w=900&q=70&auto=format&fit=crop
+[92mOK [0m Home               tablet768    status=200 overflow=NO brokenImg=0 consoleErr=0
+[92mOK [0m Home               desktop1920  status=200 overflow=NO brokenImg=0 consoleErr=0
+[91mFAIL[0m Garden Town        mobile320    status=200 overflow=NO brokenImg=1 consoleErr=0
+         broken: 
+[91mFAIL[0m Garden Town        mobile390    status=200 overflow=NO brokenImg=1 consoleErr=0
+         broken: 
+[91mFAIL[0m Garden Town        tablet768    status=200 overflow=NO brokenImg=1 consoleErr=0
+         broken: 
+[91mFAIL[0m Garden Town        desktop1920  status=200 overflow=NO brokenImg=1 consoleErr=0
+         broken: 
+[91mFAIL[0m Masoom Shah Road   mobile320    status=200 overflow=NO brokenImg=1 consoleErr=0
+         broken: 
+[91mFAIL[0m Masoom Shah Road   mobile390    status=200 overflow=NO brokenImg=1 consoleErr=0
+         broken: 
+[91mFAIL[0m Masoom Shah Road   tablet768    status=200 overflow=NO brokenImg=1 consoleErr=0
+         broken: 
+[91mFAIL[0m Masoom Shah Road   desktop1920  status=200 overflow=NO brokenImg=1 consoleErr=0
+         broken: 
+[91mFAIL[0m Railway Road       mobile320    status=200 overflow=NO brokenImg=1 consoleErr=0
+         broken: 
+[91mFAIL[0m Railway Road       mobile390    status=200 overflow=NO brokenImg=1 consoleErr=0
+         broken: 
+[91mFAIL[0m Railway Road       tablet768    status=200 overflow=NO brokenImg=1 consoleErr=0
+         broken: 
+[91mFAIL[0m Railway Road       desktop1920  status=200 overflow=NO brokenImg=1 consoleErr=0
+         broken: 
+[92mOK [0m About              mobile320    status=200 overflow=NO brokenImg=0 consoleErr=0
+[92mOK [0m About              mobile390    status=200 overflow=NO brokenImg=0 consoleErr=0
+[92mOK [0m About              tablet768    status=200 overflow=NO brokenImg=0 consoleErr=0
+[92mOK [0m About              desktop1920  status=200 overflow=NO brokenImg=0 consoleErr=0
+[92mOK [0m Privacy            mobile320    status=200 overflow=NO brokenImg=0 consoleErr=0
+[92mOK [0m Privacy            mobile390    status=200 overflow=NO brokenImg=0 consoleErr=0
+[92mOK [0m Privacy            tablet768    status=200 overflow=NO brokenImg=0 consoleErr=0
+[92mOK [0m Privacy            desktop1920  status=200 overflow=NO brokenImg=0 consoleErr=0
+[92mOK [0m 404                mobile320    status=200 overflow=NO brokenImg=0 consoleErr=0
+[92mOK [0m 404                mobile390    status=200 overflow=NO brokenImg=0 consoleErr=0
+[92mOK [0m 404                tablet768    status=200 overflow=NO brokenImg=0 consoleErr=0
+[92mOK [0m 404                desktop1920  status=200 overflow=NO brokenImg=0 consoleErr=0
+
+=== INTERACTION TESTS (desktop 1280x900) ===
+Fee tabs found: 3
+Masoom fee blocks: 2
+Masoom WhatsApp links: 8
+Home review cards: 0
+Mobile menu opens, body overflow lock: hidden
+
+=== SCREENSHOTS SAVED ===
+
+=== SUMMARY: 14/28 combos passed ===
